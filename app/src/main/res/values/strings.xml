@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">GovtJobs</string>
+    <string name="app_heading">Government Jobs</string>
+    <string name="app_signup">Sign Up</string>
+    <string name="getstarted"> GET STARTED </string>
+    <string name="have_account">Already have an account</string>
+    <string name="login">LOGIN</string>
+    <string name="select_date">Date of Birth</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="func">Function</string>
+    <string name="agree"><![CDATA[I Agree with Government Jobs Terms & Conditions]]></string>
+    <string name="submit">SUBMIT</string>
+    <string name="reference_no">Application reference no.\n1234567890</string>
+    <string name="adhaar">Adhar Number</string>
+    <string name="name">Name</string>
+    <string name="fathername">Father\'s Name</string>
+    <string name="mothername">Mother\'s Name</string>
+    <string name="cadress">CURRENT ADDRESS</string>
+    <string name="ad1">Address 1</string>
+    <string name="ad2">Address 2</string>
+    <string name="pcode">Pincode</string>
+    <string name="city">City</string>
+    <string name="dist">District</string>
+    <string name="state">State</string>
+    <string name="sameas">Permanent address same as current address</string>
+    <string name="paddress">PERMANENT ADDRESS</string>
+    <string name="arecord">ACADEMIC RECORD</string>
+    <string name="examlevel">Examination Level</string>
+    <string name="passyr">Passing Year</string>
+    <string name="board">Board/University</string>
+    <string name="marks">Marks</string>
+    <string name="grade">Division/Grade/CGPA</string>
+    <string name="majorsubject">Major Subjects of Study</string>
+    <string name="postheld">Post Held</string>
+    <string name="cast">Cast Category</string>
+    <string name="details">DETAILS OF EMPLOYMENT IN CHRONOLOGICAL ORDER</string>
+    <string name="offc">Office/Institution/Organisation</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="scale">Scale of Pay/Last Basic Pay</string>
+    <string name="duty">Nature of Duties</string>
+    <string name="employment">Nature of Present Employment(Temporary/Contract)</string>
+    <string name="emoluments_per_month">Total emoluments per month drawn</string>
+    <string name="addtl_information">Additional Information (sustainability of the post)</string>
+    <string name="remarks">Remarks (if any)</string>
+    <string name="proff_exp">PROFFESSIONAL EXPERIENCE</string>
+    <string name="postname">Exact name of the Post</string>
+    <string name="org_name">Organisation Name</string>
+    <string name="duration">Duration</string>
+    <string name="jd">Job Description</string>
+    <string name="certify">I certify that the information provided by me in thisform
+     is true, complete and correct to the best of my knowledge and belief. I understand
+    that any misinterpretaion or ommission of any information made on the application forms
+    or any other documents requested by the department may result in cancellation of this
+     and future application in the department</string>
+    <string name="fullname">Full name of the Candidate</string>
+    <string name="register">REGISTER</string>
+    <string name="dialog_title">Select  Image from</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="signhere">Sign here</string>
+    <string name="clear">Clear Pad</string>
+    <string name="save">Save Signature</string>
+    <string name="exp">Total Experience</string>
+    <string name="qualification">Academic Qualification</string>
+</resources>

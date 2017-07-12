@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15988b</color>
+    <color name="colorPrimaryDark">#238b7d</color>
+    <color name="colorAccent">#b1a9a9</color>
+    <color name="white">#fefefe</color>
+    <color name="getstarted">#ef5553</color>
+    <color name="hinttext">#4d4d4d</color>
+    <color name="black">#373737</color>
+    <color name="loginpage">#071E2C</color>
+</resources>

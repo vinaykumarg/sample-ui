@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="length_icons">30sp</dimen>
+    <dimen name="length_editext">250dp</dimen>
+    <dimen name="length_icon_left_margin">20dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="signup_textsize">50px</dimen>
+    <dimen name="gj_textsize">80px</dimen>
+    <dimen name="length_editext2">500px</dimen>
+    <dimen name="margin_left">2dp</dimen>
+    <dimen name="vertical_spacing">5dp</dimen>
+</resources>
